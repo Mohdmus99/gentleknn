@@ -2,7 +2,12 @@
 
 A new Flutter application.
 
-## Getting Started
+## Important things to do 
+
+1. Learn how to get google map 
+2. learn a little bit about UI/UX 
+3. learn a bit about firebase 
+4. learn a bit about animations 
 
 This project is a starting point for a Flutter application.
 
